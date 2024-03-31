@@ -1,6 +1,6 @@
 # EctoQueryFilter
 
-**TODO: Add description**
+**Provides utilities to apply filter on Ecto.Query**
 
 ## Installation
 
